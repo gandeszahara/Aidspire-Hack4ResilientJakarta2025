@@ -9,7 +9,7 @@ Jakarta faces worsening floods due to land subsidence, hitting informal settleme
 
 
 ### 👩‍🔬🧑‍🔬 Team Member and Roles
-1. Ahmad Habibulloh - Team Lead - gianmohar@gmail.com
+1. Ahmad Habibulloh - Team Lead - ahmadhabibullohh@gmail.com
 2. Firdausi Zahara Gandes - GIS Analyst - firdausizaharagandes@gmail.com
 3. Gian Muhammad Arvin - GIS Developer - gianmohar@gmail.com
 4. Kavita Nur Fadhila - Researcher - nurfadhilakavita@gmail.com
