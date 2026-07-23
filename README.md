@@ -2,6 +2,11 @@
 
 Jakarta’s Sinking Neighborhoods: Prioritizing Aid for Emergency Settlements through Subsidence and Flood Risk Mapping
 
+<img width="2562" height="1326" alt="Screenshot 2026-07-01 at 10 51 39" src="https://github.com/user-attachments/assets/c52105e9-0054-4fe0-be41-679aef35e217" />
+
+<img width="2560" height="1323" alt="Screenshot 2026-07-01 at 10 51 16" src="https://github.com/user-attachments/assets/ac70f068-2f88-4bdf-a87f-b126501f3b50" />
+
+
 Access Final Map Here!
 👉 _[Click this link](https://clausa.app.carto.com/map/24079acd-5deb-4b0b-8d92-362c392be2ad)_
 
