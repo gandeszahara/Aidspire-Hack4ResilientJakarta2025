@@ -3,7 +3,7 @@
 Jakarta’s Sinking Neighborhoods: Prioritizing Aid for Emergency Settlements through Subsidence and Flood Risk Mapping
 
 Access Final Map Here!
-👉 _[Click this link](https://clausa.app.carto.com/map/dd5b05d4-02ad-4d22-9074-c101d773fad5?lat=-6.216761&lng=106.876430&zoom=10)_
+👉 _[Click this link](https://clausa.app.carto.com/map/24079acd-5deb-4b0b-8d92-362c392be2ad)_
 
 Access Telegram Here!
 👉 _[Click this link](https://t.me/Aidspire_bot)_
